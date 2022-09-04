@@ -1,4 +1,4 @@
-//Names: Amani Arora, Hank Wai
+
 //File Description: Instruction.java handles the instructions
 
 import java.lang.reflect.Array;
