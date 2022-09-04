@@ -1,4 +1,4 @@
-#lab 3 test file
+#test file
 
 addi $t0, $zero, 15
 addi $t1, $0, 10
