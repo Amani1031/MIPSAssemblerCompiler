@@ -1,4 +1,4 @@
-//Names: Amani Arora, Hank Wai
+
 //File Description: ALU.java holds all the operands
 
 import java.util.ArrayList;
