@@ -1,4 +1,4 @@
-//Names: Amani Arora, Hank Wai
+
 //File Description: This file acts as the "main" for the entire program
 
 import java.io.*;
